@@ -1,0 +1,7 @@
+li {
+  list-style-type: none !important;
+}
+
+li:before {
+    content: '' !important;
+}
